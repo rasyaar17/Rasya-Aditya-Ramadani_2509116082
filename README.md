@@ -2,6 +2,6 @@
 
 RASYA ADITYA RAMADANI 
 SISTEM INFORMASI C'25
-NIM: 2509116082
+NIM 2509116082
 
 https://colab.research.google.com/drive/177YSh9kCEgNrPyfL8Rk3YVow7EoRrhTh?usp=sharing
